@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Ayisha Mares  
 **they/them | artist • creative designer • distiller**
 
-I blend creativity, craft, and code — from designing 3D worlds and interactive art to creating spirits that tell a story. My work lives somewhere between digital experimentation and hands-on craftsmanship.  
+I blend creativity, craft, and now learning code — from designing 3D worlds and interactive art to creating spirits that tell a story. My work lives somewhere between digital experimentation and hands-on craftsmanship.  
 
 ---
 
@@ -12,7 +12,7 @@ where I’m shaping a path that combines **3D design, digital media, and creativ
 ---
 
 ## 💼 Experience  
-- **Assistant Distiller** — [Company Name]  
+- **Assistant Distiller** — VARA Winery & Distillery  
   Crafting spirits, managing production, and developing new distillery programs  
 - **Designer / Art Direction** — *PRAISERATS*  
   My independent creative brand focused on 3D, graphic, and digital art  
@@ -22,13 +22,8 @@ where I’m shaping a path that combines **3D design, digital media, and creativ
 
 ## 🏆 Highlights  
 - Built a custom distillery management tool in Google Sheets  
-- Designed and launched multiple interactive portfolio sites  
+- Designed and launched a interactive portfolio site  
 - Created a 20-page InDesign magazine inspired by medieval and renaissance aesthetics  
-
----
-
-## 🧃 Fun fact  
-I once made a cocktail called **“The 505”** — a New Mexico-style Manhattan that represents where I’m from.  
 
 ---
 
